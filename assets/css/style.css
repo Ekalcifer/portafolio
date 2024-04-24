@@ -1,0 +1,39 @@
+
+body {
+    font-family: ornitorrinco;
+  }
+  
+  header {
+    background-color: #f8f9fa;
+  }
+  .fondo{
+    background-image: url(./../img/fondo.jpg);
+
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333;
+  }
+  .centro{
+    justify-content: center;
+  }
+  
+  section {
+    padding: 60px 0;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+ 
+
